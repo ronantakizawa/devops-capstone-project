@@ -25,7 +25,7 @@ factory-boy==2.12.0
 
 # Code Coverage
 coverage==6.3.2
-codecov==2.1.12
+codecov==2.1.13
 
 # Utilities
 httpie==3.2.1
